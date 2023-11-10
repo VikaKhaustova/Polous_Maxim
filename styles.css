@@ -198,3 +198,8 @@ footer{
   font-weight: 400;
   line-height: normal;
 }
+nav a:hover{
+  color: black;
+  text-shadow: 1px 1px white;
+  font-size: 25px;
+}
